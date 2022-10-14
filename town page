@@ -1,0 +1,64 @@
+<html>
+<head>
+  <title>My town </title>
+<style type="text/css">
+  body{
+    padding-left: 14em;
+    font-family: sans-serif;
+   color: darkred;
+   background-color: lightyellow;
+  }
+  ul.navbar{
+    list-style-type: upper-norwegian ;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 1em;
+    left: 2em;
+    width: 8em;
+  }
+  h1{
+    font: bold serif;
+    font-size: large;
+    color: darkgreen;
+  }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black;
+   }
+   ul.navbar li{
+    text-decoration: none}
+    a: link{
+      color: blue;
+    }
+   a:visited{
+    color: purple;
+   }
+</style>
+</head>
+ 
+<body>
+ 
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="lab2.html">Home page</a>
+  <li><a href="musings.html">Musings</a>
+  <li><a href="town.html">My town</a>
+  <li><a href="links.html">Links</a>
+</ul>
+ 
+<!-- Main content -->
+<h1> My town is chandigarh </h1>
+<img height="200" src="town2.jpg"/>
+<img height="200" src="town.jpg"/>
+
+<p>it is the capital of punjab and haryana
+ 
+<p>Chandigarh, the dream city of India's first Prime Minister, Sh. Jawahar Lal Nehru, was planned by the famous French architect Le Corbusier. Picturesquely located at the foothills of Shivaliks, it is known as one of the best experiments in urban planning and modern architecture in the twentieth century in India.
+
+ 
+<!-- Sign and date the page, it's only polite! --> 
+</body>
+</html>
